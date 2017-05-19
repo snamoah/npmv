@@ -19,3 +19,7 @@ $ npm install -g npm-ver
 $ npmv
 //=> Version: v0.1.0
 ```
+
+## TODO:
+
+* Ability to check node dependency versions within a package
