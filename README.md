@@ -15,8 +15,7 @@ $ npm install -g npm-ver
 
 ## Usage
 
-```bash
+```javascript
 $ npmv
-
 //=> Version: v0.1.0
 ```
