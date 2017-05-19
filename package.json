@@ -1,7 +1,7 @@
 {
   "name": "npmv",
   "description": "Command line tool for checking the version on an npm package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Samuel Nkoom Amoah <sa.am@programmer.net>",
   "keywords": [
     "npm",
