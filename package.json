@@ -3,6 +3,11 @@
   "description": "Command line tool for checking the version on an npm package",
   "version": "0.0.1",
   "author": "Samuel Nkoom Amoah <sa.am@programmer.net>",
+  "keywords": [
+    "npm",
+    "npm version",
+    "commandline tool"
+  ],
   "dependencies": {
     "babel-runtime": "^6.20.0",
     "path": "^0.12.7"
