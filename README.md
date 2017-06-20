@@ -22,7 +22,6 @@ $ npmv
 //=> Version: v0.1.0
 ```
 
-
 ## Options
 
 Given a version number MAJOR.MINOR.PATCH, the following arguments:
